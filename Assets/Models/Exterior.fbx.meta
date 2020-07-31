@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 354c88e8f9eab4bd89eef46611beda9a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArmRestL
+    100002: ArmRestR
+    100004: Back_1
+    100006: Back_2
+    100008: Ball
+    100010: Ball.001
+    100012: Base
+    100014: Base.001
+    100016: Body.004
+    100018: Body1
+    100020: Body1.001
+    100022: Body10
+    100024: Body10.001
+    100026: Body11
+    100028: Body11.001
+    100030: Body12
+    100032: Body12.001
+    100034: Body13
+    100036: Body13.001
+    100038: Body2
+    100040: Body2.001
+    100042: Body3
+    100044: Body3.001
+    100046: Body4
+    100048: Body4.001
+    100050: Body5
+    100052: Body5.001
+    100054: Body6
+    100056: Body6.001
+    100058: Body7
+    100060: Body7.001
+    100062: Body8
+    100064: Body8.001
+    100066: Body9
+    100068: Body9.001
+    100070: Button
+    100072: Button.001
+    100074: CanopyFrame
+    100076: CanopyGlass
+    100078: Cockpit_02 v41
+    100080: //RootNode
+    100082: Gun.Part_1.005
+    100084: Gun.Part_1.008
+    100086: Gun.Part_2.005
+    100088: Gun.Part_2.008
+    100090: Gun.Part_3.005
+    100092: Gun.Part_3.006
+    100094: Handle
+    100096: Handle.001
+    100098: Headrest
+    100100: Joystick v9
+    100102: Joystick v9(Mirror) (1)
+    100104: Joystick v9(Mirror) (1):1
+    100106: Joystick v9:1
+    100108: LowerPipe
+    100110: MiddlePipe
+    100112: Neck
+    100114: Numpad v3
+    100116: Numpad v3.001
+    100118: Numpad v3:1
+    100120: Numpad v3:2
+    100122: Patriot.Engine_Lights
+    100124: Patriot.Engine_Lights.001
+    100126: Patriot.Engine_Lights.002
+    100128: Patriot.Hatch.002
+    100130: Patriot.Merged_Parts
+    100132: Patriot.Merged_Parts.001
+    100134: Patriot.Merged_Parts.002
+    100136: Seat
+    100138: Trigger
+    100140: Trigger.001
+    100142: UpperPipe
+    400000: ArmRestL
+    400002: ArmRestR
+    400004: Back_1
+    400006: Back_2
+    400008: Ball
+    400010: Ball.001
+    400012: Base
+    400014: Base.001
+    400016: Body.004
+    400018: Body1
+    400020: Body1.001
+    400022: Body10
+    400024: Body10.001
+    400026: Body11
+    400028: Body11.001
+    400030: Body12
+    400032: Body12.001
+    400034: Body13
+    400036: Body13.001
+    400038: Body2
+    400040: Body2.001
+    400042: Body3
+    400044: Body3.001
+    400046: Body4
+    400048: Body4.001
+    400050: Body5
+    400052: Body5.001
+    400054: Body6
+    400056: Body6.001
+    400058: Body7
+    400060: Body7.001
+    400062: Body8
+    400064: Body8.001
+    400066: Body9
+    400068: Body9.001
+    400070: Button
+    400072: Button.001
+    400074: CanopyFrame
+    400076: CanopyGlass
+    400078: Cockpit_02 v41
+    400080: //RootNode
+    400082: Gun.Part_1.005
+    400084: Gun.Part_1.008
+    400086: Gun.Part_2.005
+    400088: Gun.Part_2.008
+    400090: Gun.Part_3.005
+    400092: Gun.Part_3.006
+    400094: Handle
+    400096: Handle.001
+    400098: Headrest
+    400100: Joystick v9
+    400102: Joystick v9(Mirror) (1)
+    400104: Joystick v9(Mirror) (1):1
+    400106: Joystick v9:1
+    400108: LowerPipe
+    400110: MiddlePipe
+    400112: Neck
+    400114: Numpad v3
+    400116: Numpad v3.001
+    400118: Numpad v3:1
+    400120: Numpad v3:2
+    400122: Patriot.Engine_Lights
+    400124: Patriot.Engine_Lights.001
+    400126: Patriot.Engine_Lights.002
+    400128: Patriot.Hatch.002
+    400130: Patriot.Merged_Parts
+    400132: Patriot.Merged_Parts.001
+    400134: Patriot.Merged_Parts.002
+    400136: Seat
+    400138: Trigger
+    400140: Trigger.001
+    400142: UpperPipe
+    2100000: Steel - Satin.003
+    2100002: Plastic - Glossy (Black).001
+    2100004: Plastic - Glossy (Red).001
+    2100006: Emmissive Red.001
+    2100008: Emmissive Blue.003
+    2100010: Emmissive Green.001
+    2100012: Plastic - Glossy (Blue).001
+    2100014: Plastic - Glossy (Green).001
+    2100016: Plastic (Tan).001
+    2100018: Material.004
+    2100020: GLASS
+    2100022: Chrome.001
+    2100024: Gun.Part_1.MAT.003
+    2100026: Gun.Part_1.MAT.002
+    2100028: Gun.Part_2.MAT.003
+    2100030: Gun.Part_2.MAT.002
+    2100032: Gun.Part_3.MAT.002
+    2100034: Patriot.Merged_Parts.MAT.002
+    2100036: SolarPanel
+    2100038: Patriot.Engine_Lights.MAT.003
+    2100040: Patriot.Hatch.1.MAT.001
+    2300000: ArmRestL
+    2300002: ArmRestR
+    2300004: Back_1
+    2300006: Back_2
+    2300008: Ball
+    2300010: Ball.001
+    2300012: Base
+    2300014: Base.001
+    2300016: Body.004
+    2300018: Body1
+    2300020: Body1.001
+    2300022: Body10
+    2300024: Body10.001
+    2300026: Body11
+    2300028: Body11.001
+    2300030: Body12
+    2300032: Body12.001
+    2300034: Body13
+    2300036: Body13.001
+    2300038: Body2
+    2300040: Body2.001
+    2300042: Body3
+    2300044: Body3.001
+    2300046: Body4
+    2300048: Body4.001
+    2300050: Body5
+    2300052: Body5.001
+    2300054: Body6
+    2300056: Body6.001
+    2300058: Body7
+    2300060: Body7.001
+    2300062: Body8
+    2300064: Body8.001
+    2300066: Body9
+    2300068: Body9.001
+    2300070: Button
+    2300072: Button.001
+    2300074: CanopyFrame
+    2300076: CanopyGlass
+    2300078: Gun.Part_1.005
+    2300080: Gun.Part_1.008
+    2300082: Gun.Part_2.005
+    2300084: Gun.Part_2.008
+    2300086: Gun.Part_3.005
+    2300088: Gun.Part_3.006
+    2300090: Handle
+    2300092: Handle.001
+    2300094: Headrest
+    2300096: LowerPipe
+    2300098: MiddlePipe
+    2300100: Neck
+    2300102: Patriot.Engine_Lights
+    2300104: Patriot.Engine_Lights.001
+    2300106: Patriot.Engine_Lights.002
+    2300108: Patriot.Hatch.002
+    2300110: Patriot.Merged_Parts
+    2300112: Patriot.Merged_Parts.001
+    2300114: Patriot.Merged_Parts.002
+    2300116: Seat
+    2300118: Trigger
+    2300120: Trigger.001
+    2300122: UpperPipe
+    3300000: ArmRestL
+    3300002: ArmRestR
+    3300004: Back_1
+    3300006: Back_2
+    3300008: Ball
+    3300010: Ball.001
+    3300012: Base
+    3300014: Base.001
+    3300016: Body.004
+    3300018: Body1
+    3300020: Body1.001
+    3300022: Body10
+    3300024: Body10.001
+    3300026: Body11
+    3300028: Body11.001
+    3300030: Body12
+    3300032: Body12.001
+    3300034: Body13
+    3300036: Body13.001
+    3300038: Body2
+    3300040: Body2.001
+    3300042: Body3
+    3300044: Body3.001
+    3300046: Body4
+    3300048: Body4.001
+    3300050: Body5
+    3300052: Body5.001
+    3300054: Body6
+    3300056: Body6.001
+    3300058: Body7
+    3300060: Body7.001
+    3300062: Body8
+    3300064: Body8.001
+    3300066: Body9
+    3300068: Body9.001
+    3300070: Button
+    3300072: Button.001
+    3300074: CanopyFrame
+    3300076: CanopyGlass
+    3300078: Gun.Part_1.005
+    3300080: Gun.Part_1.008
+    3300082: Gun.Part_2.005
+    3300084: Gun.Part_2.008
+    3300086: Gun.Part_3.005
+    3300088: Gun.Part_3.006
+    3300090: Handle
+    3300092: Handle.001
+    3300094: Headrest
+    3300096: LowerPipe
+    3300098: MiddlePipe
+    3300100: Neck
+    3300102: Patriot.Engine_Lights
+    3300104: Patriot.Engine_Lights.001
+    3300106: Patriot.Engine_Lights.002
+    3300108: Patriot.Hatch.002
+    3300110: Patriot.Merged_Parts
+    3300112: Patriot.Merged_Parts.001
+    3300114: Patriot.Merged_Parts.002
+    3300116: Seat
+    3300118: Trigger
+    3300120: Trigger.001
+    3300122: UpperPipe
+    4300000: Base
+    4300002: Ball
+    4300004: Handle
+    4300006: Trigger
+    4300008: Button
+    4300010: Base.001
+    4300012: Ball.001
+    4300014: Handle.001
+    4300016: Trigger.001
+    4300018: Button.001
+    4300020: Body1
+    4300022: Body2
+    4300024: Body3
+    4300026: Body4
+    4300028: Body5
+    4300030: Body6
+    4300032: Body7
+    4300034: Body8
+    4300036: Body9
+    4300038: Body10
+    4300040: Body11
+    4300042: Body12
+    4300044: Body13
+    4300046: Neck
+    4300048: Back_2
+    4300050: Back_1
+    4300052: Seat
+    4300054: Headrest
+    4300056: CanopyFrame
+    4300058: CanopyGlass
+    4300060: ArmRestL
+    4300062: ArmRestR
+    4300064: UpperPipe
+    4300066: LowerPipe
+    4300068: MiddlePipe
+    4300070: Body.004
+    4300072: Gun.Part_1.008
+    4300074: Gun.Part_1.005
+    4300076: Gun.Part_2.008
+    4300078: Gun.Part_2.005
+    4300080: Gun.Part_3.006
+    4300082: Gun.Part_3.005
+    4300084: Patriot.Merged_Parts
+    4300086: Patriot.Merged_Parts.001
+    4300088: Patriot.Merged_Parts.002
+    4300090: Patriot.Engine_Lights
+    4300092: Patriot.Engine_Lights.001
+    4300094: Patriot.Engine_Lights.002
+    4300096: Patriot.Hatch.002
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

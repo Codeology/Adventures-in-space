@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: c4bdbc286010d40d1ba463c3fb2707b5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stellar
+  fontNames:
+  - Stellar
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 64886f049886940b0b95fc9df1bbe259, type: 3}
+  - {fileID: 12800000, guid: 81938fc4d0f3a42eeb8c14c2726d1e9d, type: 3}
+  - {fileID: 12800000, guid: 4b62ad8980b234615925bf31baa2b611, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

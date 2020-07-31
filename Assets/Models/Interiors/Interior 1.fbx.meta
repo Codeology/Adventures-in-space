@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: fb808c9baf80c47068b5279d73ffccd4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body.001
+    100004: Cube
+    100006: Cube.001
+    100008: Cube.002
+    100010: Cube.003
+    100012: Cube_2
+    100014: Cube_2.001
+    100016: DOOR
+    100018: DOOR.001
+    100020: Doors
+    100022: Doors.001
+    100024: Extrude_1
+    100026: Extrude_2
+    100028: Extrude_3
+    100030: Extrude_4
+    100032: Floor
+    100034: Floor.001
+    100036: Frame
+    100038: Frame.001
+    100040: Frame_2
+    100042: Frame_2.001
+    100044: //RootNode
+    100046: Left_Door
+    100048: Left_Door.001
+    100050: Light
+    100052: Light.001
+    100054: Right_Door
+    100056: Right_Door.001
+    100058: Sci_Fi_Corridor
+    100060: Sci_Fi_Corridor.001
+    100062: Television
+    400000: Body
+    400002: Body.001
+    400004: Cube
+    400006: Cube.001
+    400008: Cube.002
+    400010: Cube.003
+    400012: Cube_2
+    400014: Cube_2.001
+    400016: DOOR
+    400018: DOOR.001
+    400020: Doors
+    400022: Doors.001
+    400024: Extrude_1
+    400026: Extrude_2
+    400028: Extrude_3
+    400030: Extrude_4
+    400032: Floor
+    400034: Floor.001
+    400036: Frame
+    400038: Frame.001
+    400040: Frame_2
+    400042: Frame_2.001
+    400044: //RootNode
+    400046: Left_Door
+    400048: Left_Door.001
+    400050: Light
+    400052: Light.001
+    400054: Right_Door
+    400056: Right_Door.001
+    400058: Sci_Fi_Corridor
+    400060: Sci_Fi_Corridor.001
+    400062: Television
+    2100000: No Name
+    2100002: Mat.006
+    2100004: Mat.011
+    2100006: Mat.013
+    2100008: Material
+    2100010: Material.001
+    2100012: Material.002
+    2300000: Body
+    2300002: Body.001
+    2300004: Cube
+    2300006: Cube.001
+    2300008: Cube.002
+    2300010: Cube.003
+    2300012: Cube_2
+    2300014: Cube_2.001
+    2300016: Extrude_1
+    2300018: Extrude_2
+    2300020: Extrude_3
+    2300022: Extrude_4
+    2300024: Floor
+    2300026: Floor.001
+    2300028: Frame_2
+    2300030: Frame_2.001
+    2300032: Television
+    3300000: Body
+    3300002: Body.001
+    3300004: Cube
+    3300006: Cube.001
+    3300008: Cube.002
+    3300010: Cube.003
+    3300012: Cube_2
+    3300014: Cube_2.001
+    3300016: Extrude_1
+    3300018: Extrude_2
+    3300020: Extrude_3
+    3300022: Extrude_4
+    3300024: Floor
+    3300026: Floor.001
+    3300028: Frame_2
+    3300030: Frame_2.001
+    3300032: Television
+    4300000: Cube.002
+    4300002: Cube_2
+    4300004: Extrude_2
+    4300006: Extrude_1
+    4300008: Extrude_4
+    4300010: Extrude_3
+    4300012: Frame_2
+    4300014: Body
+    4300016: Floor
+    4300018: Body.001
+    4300020: Cube.003
+    4300022: Cube_2.001
+    4300024: Frame_2.001
+    4300026: Floor.001
+    4300028: Television
+    4300030: Cube
+    4300032: Cube.001
+    10800000: Light
+    10800002: Light.001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
